@@ -7,7 +7,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:background="#1a8a6a"
-    tools:context="com.biscom.signageenumeratorekiti.FieldManifestListActivity">
+    tools:context="com.biscom.signageenumerator.FieldManifestListActivity">
     <ImageView
         android:id="@+id/imgdelete"
         android:layout_marginTop="0dp"

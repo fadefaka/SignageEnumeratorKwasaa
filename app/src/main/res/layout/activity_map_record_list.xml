@@ -9,7 +9,7 @@
     android:paddingRight="16dp"
     android:paddingTop="16dp"
     android:background="#1a8a6a"
-    tools:context="com.biscom.signageenumeratorekiti.MapRecordListActivity">
+    tools:context="com.biscom.signageenumerator.MapRecordListActivity">
 
     <TextView
         android:id="@+id/login_title"

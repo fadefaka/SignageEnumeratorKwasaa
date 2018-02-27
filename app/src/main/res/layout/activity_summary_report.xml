@@ -10,7 +10,7 @@
     android:paddingLeft="0dp"
     android:paddingRight="0dp"
     android:paddingTop="16dp"
-    tools:context="com.biscom.signageenumeratorekiti.SummaryReportActivity">
+    tools:context="com.biscom.signageenumerator.SummaryReportActivity">
 
     <TextView
         android:id="@+id/login_title"

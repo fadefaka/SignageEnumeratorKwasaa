@@ -10,7 +10,7 @@
     android:paddingTop="16dp"
     android:background="#1a8a6a"
     android:orientation="vertical"
-    tools:context="com.biscom.signageenumeratorekiti.SuggestionActivity">
+    tools:context="com.biscom.signageenumerator.SuggestionActivity">
 
     <TextView
         android:id="@+id/login_title"

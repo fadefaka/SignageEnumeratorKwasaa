@@ -5,20 +5,20 @@
     android:background="@color/colorPrimaryDark"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.biscom.signageenumeratorekiti.LoginActivity">
+    tools:context="com.biscom.signageenumerator.LoginActivity">
 
 
     <ImageView
         android:id="@+id/bglogin"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="0dp"
+        android:layout_height="551dp"
         android:alpha="0.1"
         android:contentDescription="@string/todo"
         android:elevation="10dp"
         android:scaleType="centerCrop"
         android:src="@drawable/ekiti"
-        tools:layout_editor_absoluteX="127dp"
-        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp"
         tools:ignore="MissingConstraints" />
 
 
@@ -133,7 +133,7 @@
             android:alpha="0.9"
             android:background="@drawable/user_profile_image_background"
             android:elevation="24dp"
-            android:src="@drawable/loginlogo" />
+            android:src="@mipmap/ic_launcher" />
 
     </RelativeLayout>
 

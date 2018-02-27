@@ -10,7 +10,7 @@
     android:paddingRight="16dp"
     android:paddingTop="16dp"
     android:background="#1a8a6a"
-    tools:context="com.biscom.signageenumeratorekiti.FieldReportingAreaListActivity">
+    tools:context="com.biscom.signageenumerator.FieldReportingAreaListActivity">
 
     <ImageView
         android:id="@+id/imgdelete"

@@ -10,7 +10,7 @@
     android:paddingRight="16dp"
     android:paddingTop="0dp"
     android:background="#1a8a6a"
-    tools:context="com.biscom.signageenumeratorekiti.MapViewActivity"
+    tools:context="com.biscom.signageenumerator.MapViewActivity"
     >
 
 
