@@ -6,8 +6,8 @@ android {
         applicationId "com.biscom.signageenumerator"
         minSdkVersion 21
         targetSdkVersion 25
-        versionCode 32
-        versionName "1.31"
+        versionCode 35
+        versionName "1.34"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

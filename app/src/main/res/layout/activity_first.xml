@@ -34,7 +34,7 @@
             android:layout_height="150dp"
             android:layout_weight="1"
             android:layout_gravity="center_horizontal|bottom"
-            android:src="@mipmap/ic_launcher"
+            android:src="@drawable/kwasaaimage"
             android:elevation="10dp" />
 
         <TextView
